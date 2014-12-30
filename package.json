@@ -29,6 +29,7 @@
     "istanbul": "^0.3.2"
   },
   "dependencies": {
+    "content-type-mime": "^1.0.1",
     "upyun-legacy": "~0.4.0"
   }
 }
