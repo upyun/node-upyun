@@ -243,3 +243,7 @@ Any futher update and maintenance will conducted by upyun develop team and subse
 In npm registry, `"upyun": "<=0.0.3"` were published as [node-upyun](https://github.com/ashchan/node-upyun) by [James Chen](http://ashchan.com).
 
 __Thanks to  [James Chen](http://ashchan.com)  for his contribution to UPYUN.__
+
+## Third party modules
+
+* [upyun.io - another upyun node.js sdk](https://github.com/onebook/upyun.io)
