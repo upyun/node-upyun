@@ -26,9 +26,22 @@
   "devDependencies": {
     "mocha": "~1.16.2",
     "should": "~4.0.4",
-    "istanbul": "^0.3.2"
+    "istanbul": "^0.3.2",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1"
   },
   "dependencies": {
     "upyun-legacy": "~0.4.1"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "it"
+    ]
   }
 }
