@@ -1,3 +1,7 @@
+# v2.0.0 / 2016.07.23
+
+* move project to https://github.com/upyun/node-sdk
+
 # v1.1.1 / 2014.11.26
 
 * deps: upyun-legacy@0.4.0: fix result when listing a empty dir
